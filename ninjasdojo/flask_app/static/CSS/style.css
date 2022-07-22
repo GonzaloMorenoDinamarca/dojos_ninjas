@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    width: 40em;
+    background-color: rgb(228, 220, 220);
+    padding: 2em;
+    margin: 2em auto;
+}
+.enviar {
+    background-color: white;
+    box-shadow: 2px 2px black;
+    width: 4em;
+    height: 1.8em;
+}
+.enviar, .c {
+    margin-top: 1em;
+}
+.nombre {
+    width: 14em;
+    height: 1.5em;
+}
+table {
+    border: 2px solid black;
+    width: 10em;
+    margin-bottom: 1em;
+}
+.a {
+    margin-left: 7em;
+}
+h1 {
+    margin-bottom: 1em;
+}
+.container-2{
+    padding: 0.5em;
+}
+.b {
+    margin: 0.5em;
+}
+.create {
+    width: 5em;
+    height: 1.5em;
+    margin-left: 4em;
+    background-color: white;
+    box-shadow: 2px 2px black;
+}
+#ninjas{
+    width: 40em;
+}
+.container-3{
+    padding: 2em;
+}
+.titulo {
+    margin-bottom: 1em;
+}
